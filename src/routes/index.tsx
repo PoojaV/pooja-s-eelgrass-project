@@ -54,7 +54,7 @@ function Index() {
         </div>
       </header>
 
-n      <main>
+      <main>
         {/* Hero */}
         <section className="px-6 py-24 sm:py-32">
           <div className="mx-auto max-w-3xl">
